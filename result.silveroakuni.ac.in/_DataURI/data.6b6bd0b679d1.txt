@@ -1,0 +1,1 @@
+chrome-extension://gnmjmennllheofmojjffnidneaohleln/web_accessible_resources/sphere.svg
